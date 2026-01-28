@@ -1,0 +1,6 @@
+name = "Ayesha"
+print(name)
+uin = input("UIN: ")
+print(f"My UIN (uin}")
+marks = int(input("Marks %"))
+print(f"I scored (marks}% in 12th")
